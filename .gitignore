@@ -1,0 +1,12 @@
+.DS_STORE
+node_modules
+public/dist/
+*~
+*.pyc
+static
+.module-cache
+*.sublime-project
+*.sublime-workspace
+.idea
+*.iml
+.vscode
